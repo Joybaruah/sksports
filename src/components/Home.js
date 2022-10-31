@@ -1,5 +1,4 @@
 import React, { useRef } from "react";
-import { Fade } from "react-slideshow-image";
 import "react-slideshow-image/dist/styles.css";
 import { Services } from "./Services";
 import sport from "../utils/images/sport.jpg"
@@ -33,9 +32,9 @@ export const Home = () => {
         <img src={sport} className="w-90 h-96 object-contain rounded-lg"/>
       </div>
 
-      {/* <div ref={services}>
+      <div ref={services}>
         <Services />
-      </div> */}
+      </div>
     </div>
   );
 };
