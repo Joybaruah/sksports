@@ -28,7 +28,7 @@ export const BadmintonDetails = () => {
           <h3 className="text-sm mt-2">Fees Structure</h3>
           <p className="sm:text-md md:text-lg font-Inconsolata font-semibold">
             • Rs 1000/- Monthly Fee <br />
-            • Rs 100/- Uniform <br />• Total 1500/-
+            • Rs 500/- Uniform <br />• Total 1500/-
           </p>
           <h3 className="text-sm mt-2">Schedule</h3>
           <p className="sm:text-md md:text-lg font-Inconsolata font-semibold">
